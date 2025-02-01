@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Top Programming Languages in 2023",
+  "description": "Discover the most popular programming languages and their use cases in 2023.",
+  "image": "https://yourwebsite.com/images/article1.jpg",
+  "author": {
+    "@type": "Person",
+    "name": "Author Name"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Your Company Name",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://yourwebsite.com/images/logo.png"
+    }
+  },
+  "datePublished": "2023-10-01",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://yourwebsite.com/article1"
+  }
+}
